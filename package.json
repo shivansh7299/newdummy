@@ -1,0 +1,23 @@
+{
+  "name": "test123456789",
+  "version": "1.0.0",
+  "description": "testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh7299/newdummy.git"
+  },
+  "keywords": [
+    "trial",
+    "test"
+  ],
+  "author": "shivansh sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivansh7299/newdummy/issues"
+  },
+  "homepage": "https://github.com/shivansh7299/newdummy#readme"
+}
